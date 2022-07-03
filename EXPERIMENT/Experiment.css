@@ -1,0 +1,40 @@
+#body {
+  margin-top:100px;
+    /*margin-left:500px; 
+    margin-right:400px; 
+    margin-bottom:100px;
+    text-align:center;*/
+  background-color:rgba(30,90,255,0.5);
+}
+#buttonDesign{
+ /* border-top:5px white;
+  border-left:5px white;
+  border-right:5px white;
+  border-bottom:5px white;*/
+  background-color:forestgreen;
+  border-radius: 11px;
+  color:white;
+  
+}
+#div-design1 {
+   float:centre;
+   
+}
+#div-design2 {
+  float:center;
+  background-color:ivory;
+}
+#div-design3 {
+  float:right;
+  background-color:tomato;
+}
+#paraedit {
+  text-align: justify;
+  font-family: helvetica;
+}
+#buttonDesign1{
+  background-color:black;
+  border-radius: 11px;
+  color:white;
+  
+}
